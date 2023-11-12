@@ -1,3 +1,4 @@
 # BIC-Official
 
-budapestinternationalcollege.netlify.app
+[budapestinternationalcollege.netlify.app
+](https://budapestinternationalcollege.netlify.app/)https://budapestinternationalcollege.netlify.app/
